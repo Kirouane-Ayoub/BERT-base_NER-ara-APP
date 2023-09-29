@@ -63,8 +63,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
-+ You can check The Demo from here : **https://huggingface.co/spaces/ayoubkirouane/BERT-base_NER-ar**
++ You can check The Demo from here: **https://huggingface.co/spaces/ayoubkirouane/BERT-base_NER-ar**
 
+![Screenshot at 2023-09-29 13-16-40](https://github.com/Kirouane-Ayoub/BERT-base_NER-ara-APP/assets/99510125/79b986b3-b976-4c37-a075-972fd10b917c)
 
 
 + developed by **Kirouane Ayoub**
