@@ -34,7 +34,7 @@ model = AutoModelForTokenClassification.from_pretrained("ayoubkirouane/BERT-base
 tokenizer = AutoTokenizer.from_pretrained("ayoubkirouane/BERT-base_NER-ar")
 
 # Tokenize your input text
-text = "أبو ظبي هي عاصمة دولة الإمارات العربية المتحدة."
+text = "عاصمة فلسطين هي القدس الشريف."
 tokens = tokenizer.tokenize(tokenizer.decode(tokenizer.encode(text)))
 
 # Convert tokens to input IDs
